@@ -1,0 +1,13 @@
+# FastAPI dependencies
+fastapi==0.109.0
+uvicorn==0.25.0
+pydantic==2.5.3
+
+# Streamlit frontend
+streamlit==1.30.0
+pygments==2.16.1
+requests==2.31.0
+
+# ML dependencies
+torch==2.1.2
+transformers==4.36.2
