@@ -20,7 +20,7 @@ except Exception as e:
 
 def generate_code(
     instruction: str,
-    max_length: int = 512,
+    max_length: int = 1024,
     temperature: float = 0.7,
     top_p: float = 0.9,
     top_k: int = 50,
